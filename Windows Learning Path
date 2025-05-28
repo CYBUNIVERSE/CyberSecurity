@@ -1,0 +1,34 @@
+
+Windows is a widely used operating system developed by Microsoft. 
+It provides a graphical interface for users to interact with their computer and supports a variety of applications. 
+It's commonly used in personal, corporate, and enterprise environments.
+
+
+Windows Versions: From Start to Now
+
+| Version           | Release Year | Key Features / Notes                                              |
+| ----------------- | ------------ | ----------------------------------------------------------------- |
+| **Windows 1.0**   | 1985         | First GUI version, very basic                                     |
+| **Windows 3.x**   | Early 1990s  | Improved GUI, Program Manager, more apps                          |
+| **Windows 95**    | 1995         | Start menu introduced, plug and play support                      |
+| **Windows 98**    | 1998         | Improved hardware support, Internet Explorer 4 included           |
+| **Windows ME**    | 2000         | Focused on multimedia, less stable                                |
+| **Windows 2000**  | 2000         | Business-oriented, NT kernel, improved stability                  |
+| **Windows XP**    | 2001         | Huge success, user-friendly, long support                         |
+| **Windows Vista** | 2007         | Aero GUI, security improvements, mixed reception                  |
+| **Windows 7**     | 2009         | Stable, fast, very popular                                        |
+| **Windows 8**     | 2012         | Touch-centric, removed start menu initially                       |
+| **Windows 8.1**   | 2013         | Start button restored, improved UI                                |
+| **Windows 10**    | 2015         | Universal apps, Cortana, continuous updates                       |
+| **Windows 11**    | 2021         | New design, centered taskbar, better support for virtual desktops |
+
+Hands-on Rooms: 
+
+Windows Fundamentals Series:
+
+https://tryhackme.com/room/windowsfundamentals1xbx
+https://tryhackme.com/room/windowsfundamentals2x0x
+https://tryhackme.com/room/windowsfundamentals3xzx
+
+Command Prompt:
+https://tryhackme.com/room/windowscommandline
